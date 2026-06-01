@@ -1,0 +1,6 @@
+{
+  "name": "Devil's Advocate Whiteboard",
+  "description": "An interactive digital whiteboard and AI argument challenger designed for humanities students to build and critique persuasive arguments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
